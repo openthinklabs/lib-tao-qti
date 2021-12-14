@@ -1,5 +1,5 @@
 {
-    "name": "oat-sa/lib-tao-qti",
+    "name": "openthinklabs/lib-tao-qti",
     "description": "QTI Software Module Library for TAO",
     "type": "library",
     "authors": [
