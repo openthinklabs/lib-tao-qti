@@ -41,7 +41,7 @@
     ],    
     "require" : {
         "php" : ">=7.1",
-        "openthinklabs/qtism": "0.25.1.3"
+        "openthinklabs/qtism": "^0.25.0"
         
     },
     "require-dev": {
